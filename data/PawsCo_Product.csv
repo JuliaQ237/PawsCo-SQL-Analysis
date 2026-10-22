@@ -1,0 +1,360 @@
+﻿ProductCode,ProductName,CategoryID,PetType,UnitCost,UnitRetailPrice
+PET-P0001,Adult Dog Dry Food - 1kg,PET-SC001,Dog,12.88,18
+PET-P0002,Adult Dog Dry Food - 2kg,PET-SC001,Dog,22.03,30.12
+PET-P0003,Adult Dog Dry Food - 3kg,PET-SC001,Dog,28.93,42.25
+PET-P0004,Adult Dog Dry Food - 4kg,PET-SC001,Dog,41.81,54.38
+PET-P0005,Adult Dog Dry Food - 5kg,PET-SC001,Dog,48.67,66.5
+PET-P0006,Adult Dog Dry Food - 6kg,PET-SC001,Dog,58.07,78.62
+PET-P0007,Adult Dog Dry Food - 7kg,PET-SC001,Dog,64.04,90.75
+PET-P0008,Adult Dog Dry Food - 8kg,PET-SC001,Dog,74.26,102.88
+PET-P0009,Adult Dog Dry Food - 9kg,PET-SC001,Dog,83.88,115
+PET-P0010,Puppy Dry Food - 1kg,PET-SC002,Dog,14.94,22
+PET-P0011,Puppy Dry Food - 2kg,PET-SC002,Dog,21.85,28.44
+PET-P0012,Puppy Dry Food - 3kg,PET-SC002,Dog,24.48,34.88
+PET-P0013,Puppy Dry Food - 4kg,PET-SC002,Dog,29.39,41.31
+PET-P0014,Puppy Dry Food - 5kg,PET-SC002,Dog,36.47,47.75
+PET-P0015,Puppy Dry Food - 6kg,PET-SC002,Dog,39.22,54.19
+PET-P0016,Puppy Dry Food - 7kg,PET-SC002,Dog,46.13,60.62
+PET-P0017,Puppy Dry Food - 8kg,PET-SC002,Dog,49.57,67.06
+PET-P0018,Puppy Dry Food - 9kg,PET-SC002,Dog,50.36,73.5
+PET-P0019,Puppy Dry Food - 10kg,PET-SC002,Dog,59.48,79.94
+PET-P0020,Puppy Dry Food - 12kg,PET-SC002,Dog,64.97,86.38
+PET-P0021,Puppy Dry Food - 15kg,PET-SC002,Dog,70.05,92.81
+PET-P0022,Puppy Dry Food - 18kg,PET-SC002,Dog,66.76,99.25
+PET-P0023,Puppy Dry Food - 20kg,PET-SC002,Dog,74.49,105.69
+PET-P0024,Puppy Dry Food - Bulk Format 15,PET-SC002,Dog,85.05,112.12
+PET-P0025,Puppy Dry Food - Bulk Format 16,PET-SC002,Dog,90.7,118.56
+PET-P0026,Puppy Dry Food - Bulk Format 17,PET-SC002,Dog,84.9,125
+PET-P0027,Senior Dog Dry Food - 1kg,PET-SC003,Dog,16.57,22
+PET-P0028,Senior Dog Dry Food - 2kg,PET-SC003,Dog,26.66,38.33
+PET-P0029,Senior Dog Dry Food - 3kg,PET-SC003,Dog,42.03,54.67
+PET-P0030,Senior Dog Dry Food - 4kg,PET-SC003,Dog,50.5,71
+PET-P0031,Senior Dog Dry Food - 5kg,PET-SC003,Dog,64.05,87.33
+PET-P0032,Senior Dog Dry Food - 6kg,PET-SC003,Dog,74.35,103.67
+PET-P0033,Senior Dog Dry Food - 7kg,PET-SC003,Dog,90.57,120
+PET-P0034,Dog Wet Food - Single Pack,PET-SC004,Dog,2.96,4
+PET-P0035,Dog Wet Food - 4 Pack,PET-SC004,Dog,4.77,6.59
+PET-P0036,Dog Wet Food - 6 Pack,PET-SC004,Dog,6.28,9.18
+PET-P0037,Dog Wet Food - 8 Pack,PET-SC004,Dog,8.94,11.76
+PET-P0038,Dog Wet Food - 12 Pack,PET-SC004,Dog,10.74,14.35
+PET-P0039,Dog Wet Food - 16 Pack,PET-SC004,Dog,12.37,16.94
+PET-P0040,Dog Wet Food - 24 Pack,PET-SC004,Dog,14.85,19.53
+PET-P0041,Dog Wet Food - 32 Pack,PET-SC004,Dog,14.89,22.12
+PET-P0042,Dog Wet Food - 40 Pack,PET-SC004,Dog,17.98,24.71
+PET-P0043,Dog Wet Food - 48 Pack,PET-SC004,Dog,20.46,27.29
+PET-P0044,Dog Wet Food - 60 Pack,PET-SC004,Dog,22.96,29.88
+PET-P0045,Dog Wet Food - 72 Pack,PET-SC004,Dog,23.93,32.47
+PET-P0046,Dog Wet Food - 84 Pack,PET-SC004,Dog,24.65,35.06
+PET-P0047,Dog Wet Food - 96 Pack,PET-SC004,Dog,27.99,37.65
+PET-P0048,Dog Wet Food - Bulk Format 15,PET-SC004,Dog,28.05,40.24
+PET-P0049,Dog Wet Food - Bulk Format 16,PET-SC004,Dog,30.34,42.82
+PET-P0050,Dog Wet Food - Bulk Format 17,PET-SC004,Dog,34.83,45.41
+PET-P0051,Dog Wet Food - Bulk Format 18,PET-SC004,Dog,36.61,48
+PET-P0052,Adult Cat Dry Food - 1kg,PET-SC005,Cat,11.9,16
+PET-P0053,Adult Cat Dry Food - 2kg,PET-SC005,Cat,41.39,55.5
+PET-P0054,Adult Cat Dry Food - 3kg,PET-SC005,Cat,67.27,95
+PET-P0055,Kitten Dry Food - 1kg,PET-SC006,Cat,12.16,18
+PET-P0056,Kitten Dry Food - 2kg,PET-SC006,Cat,28.44,38.5
+PET-P0057,Kitten Dry Food - 3kg,PET-SC006,Cat,44.38,59
+PET-P0058,Kitten Dry Food - 4kg,PET-SC006,Cat,57.03,79.5
+PET-P0059,Kitten Dry Food - 5kg,PET-SC006,Cat,67.8,100
+PET-P0060,Senior Cat Dry Food - 1kg,PET-SC007,Cat,15.23,20
+PET-P0061,Senior Cat Dry Food - 2kg,PET-SC007,Cat,73.28,100
+PET-P0062,Cat Wet Food - Single Pack,PET-SC008,Cat,2.29,3
+PET-P0063,Cat Wet Food - 4 Pack,PET-SC008,Cat,11.18,16
+PET-P0064,Cat Wet Food - 6 Pack,PET-SC008,Cat,21.73,29
+PET-P0065,Cat Wet Food - 8 Pack,PET-SC008,Cat,29.53,42
+PET-P0066,Dog Training Treats - 50g,PET-SC009,Dog,3.74,5
+PET-P0067,Dog Training Treats - 100g,PET-SC009,Dog,19.28,28
+PET-P0068,Cat Treats - 50g,PET-SC011,Cat,3.08,4
+PET-P0069,Cat Treats - 100g,PET-SC011,Cat,14.47,20
+PET-P0070,Dog Dental Treats - 50g,PET-SC010,Dog,5.26,7
+PET-P0071,Dog Dental Treats - 100g,PET-SC010,Dog,17.03,22.5
+PET-P0072,Dog Dental Treats - 150g,PET-SC010,Dog,27.3,38
+PET-P0073,Freeze-dried Treats - 50g,PET-SC012,Dog & Cat,6.06,9
+PET-P0074,Freeze-dried Treats - 100g,PET-SC012,Dog & Cat,18.68,27
+PET-P0075,Freeze-dried Treats - 150g,PET-SC012,Dog & Cat,32.36,45
+PET-P0076,Dog Shampoo - 50ml,PET-SC013,Dog,5.33,9
+PET-P0077,Cat Shampoo - 50ml,PET-SC014,Cat,5.79,10
+PET-P0078,Conditioning Spray - 50ml,PET-SC015,Dog & Cat,5.23,10
+PET-P0079,Conditioning Spray - 100ml,PET-SC015,Dog & Cat,14.64,28
+PET-P0080,Grooming Wipes - 10 Pack,PET-SC016,Dog & Cat,2.94,5
+PET-P0081,Grooming Wipes - 20 Pack,PET-SC016,Dog & Cat,5.09,9.25
+PET-P0082,Grooming Wipes - 30 Pack,PET-SC016,Dog & Cat,7.73,13.5
+PET-P0083,Grooming Wipes - 40 Pack,PET-SC016,Dog & Cat,9.59,17.75
+PET-P0084,Grooming Wipes - 50 Pack,PET-SC016,Dog & Cat,11.23,22
+PET-P0085,Slicker Brush - Small - Slate,PET-SC017,Dog & Cat,4.76,8
+PET-P0086,Slicker Brush - Small - Sand,PET-SC017,Dog & Cat,20.48,35
+PET-P0087,Bristle Brush - Small - Slate,PET-SC018,Dog & Cat,4.07,7
+PET-P0088,Bristle Brush - Small - Sand,PET-SC018,Dog & Cat,16.66,28
+PET-P0089,Deshedding Comb - Small - Slate,PET-SC019,Dog & Cat,6.78,12
+PET-P0090,Deshedding Comb - Small - Sand,PET-SC019,Dog & Cat,24.26,45
+PET-P0091,Dematting Comb - Small - Slate,PET-SC020,Dog & Cat,5.83,10
+PET-P0092,Dematting Comb - Small - Sand,PET-SC020,Dog & Cat,7.14,13.67
+PET-P0093,Dematting Comb - Small - Sage,PET-SC020,Dog & Cat,10,17.33
+PET-P0094,Dematting Comb - Small - Navy,PET-SC020,Dog & Cat,11.27,21
+PET-P0095,Dematting Comb - Medium - Slate,PET-SC020,Dog & Cat,14.24,24.67
+PET-P0096,Dematting Comb - Medium - Sand,PET-SC020,Dog & Cat,16.68,28.33
+PET-P0097,Dematting Comb - Medium - Sage,PET-SC020,Dog & Cat,17.37,32
+PET-P0098,Nail Clippers - Small - Slate,PET-SC021,Dog & Cat,4.31,8
+PET-P0099,Nail Clippers - Small - Sand,PET-SC021,Dog & Cat,9.64,16.5
+PET-P0100,Nail Clippers - Small - Sage,PET-SC021,Dog & Cat,13.27,25
+PET-P0101,Nail Grinder - Small - Slate,PET-SC022,Dog & Cat,13.27,25
+PET-P0102,Nail Grinder - Small - Sand,PET-SC022,Dog & Cat,19.41,35
+PET-P0103,Nail Grinder - Small - Sage,PET-SC022,Dog & Cat,24.05,45
+PET-P0104,Nail Grinder - Small - Navy,PET-SC022,Dog & Cat,32.74,55
+PET-P0105,Nail Grinder - Medium - Slate,PET-SC022,Dog & Cat,35.24,65
+PET-P0106,Nail Grinder - Medium - Sand,PET-SC022,Dog & Cat,41.01,75
+PET-P0107,Nail Grinder - Medium - Sage,PET-SC022,Dog & Cat,50.12,85
+PET-P0108,Grooming Scissors - Small - Slate,PET-SC023,Dog & Cat,6.99,12
+PET-P0109,Grooming Scissors - Small - Sand,PET-SC023,Dog & Cat,14.53,26
+PET-P0110,Grooming Scissors - Small - Sage,PET-SC023,Dog & Cat,21.64,40
+PET-P0111,Grooming Glove - Small - Slate,PET-SC024,Dog & Cat,4.22,8
+PET-P0112,Pet Toothbrush - Small - Slate,PET-SC025,Dog & Cat,2.4,4
+PET-P0113,Pet Toothbrush - Small - Sand,PET-SC025,Dog & Cat,8.53,16
+PET-P0114,Pet Toothpaste - 50ml,PET-SC026,Dog & Cat,4.27,8
+PET-P0115,Dental Cleaning Kit - Small - Slate,PET-SC027,Dog & Cat,8.26,15
+PET-P0116,Dental Cleaning Kit - Small - Sand,PET-SC027,Dog & Cat,11,20.75
+PET-P0117,Dental Cleaning Kit - Small - Sage,PET-SC027,Dog & Cat,13.67,26.5
+PET-P0118,Dental Cleaning Kit - Small - Navy,PET-SC027,Dog & Cat,17.88,32.25
+PET-P0119,Dental Cleaning Kit - Medium - Slate,PET-SC027,Dog & Cat,20.99,38
+PET-P0120,Ear Cleaning Wipes - 10 Pack,PET-SC028,Dog & Cat,4.04,7
+PET-P0121,Ear Cleaning Wipes - 20 Pack,PET-SC028,Dog & Cat,7.01,12
+PET-P0122,Ear Cleaning Wipes - 30 Pack,PET-SC028,Dog & Cat,8.81,17
+PET-P0123,Ear Cleaning Wipes - 40 Pack,PET-SC028,Dog & Cat,11.68,22
+PET-P0124,Paw Cleaning Cup - Small - Slate,PET-SC029,Dog,6.32,12
+PET-P0125,Paw Cleaning Cup - Small - Sand,PET-SC029,Dog,8.13,13.92
+PET-P0126,Paw Cleaning Cup - Small - Sage,PET-SC029,Dog,9.59,15.83
+PET-P0127,Paw Cleaning Cup - Small - Navy,PET-SC029,Dog,10.16,17.75
+PET-P0128,Paw Cleaning Cup - Medium - Slate,PET-SC029,Dog,11.02,19.67
+PET-P0129,Paw Cleaning Cup - Medium - Sand,PET-SC029,Dog,11.2,21.58
+PET-P0130,Paw Cleaning Cup - Medium - Sage,PET-SC029,Dog,13.67,23.5
+PET-P0131,Paw Cleaning Cup - Medium - Navy,PET-SC029,Dog,13.96,25.42
+PET-P0132,Paw Cleaning Cup - Large - Slate,PET-SC029,Dog,16.65,27.33
+PET-P0133,Paw Cleaning Cup - Large - Sand,PET-SC029,Dog,16.03,29.25
+PET-P0134,Paw Cleaning Cup - Large - Sage,PET-SC029,Dog,17.83,31.17
+PET-P0135,Paw Cleaning Cup - Large - Navy,PET-SC029,Dog,19.94,33.08
+PET-P0136,Paw Cleaning Cup - Extra Large - Slate,PET-SC029,Dog,20.91,35
+PET-P0137,Paw Cleaning Wipes - 10 Pack,PET-SC030,Dog & Cat,3.66,6
+PET-P0138,Paw Cleaning Wipes - 20 Pack,PET-SC030,Dog & Cat,4.95,8.33
+PET-P0139,Paw Cleaning Wipes - 30 Pack,PET-SC030,Dog & Cat,5.93,10.67
+PET-P0140,Paw Cleaning Wipes - 40 Pack,PET-SC030,Dog & Cat,7.71,13
+PET-P0141,Paw Cleaning Wipes - 50 Pack,PET-SC030,Dog & Cat,8.42,15.33
+PET-P0142,Paw Cleaning Wipes - 60 Pack,PET-SC030,Dog & Cat,10.31,17.67
+PET-P0143,Paw Cleaning Wipes - 80 Pack,PET-SC030,Dog & Cat,11.24,20
+PET-P0144,Clumping Cat Litter - 2L,PET-SC031,Cat,6.47,12
+PET-P0145,Clumping Cat Litter - 4L,PET-SC031,Cat,9.53,15.75
+PET-P0146,Clumping Cat Litter - 5L,PET-SC031,Cat,11.35,19.5
+PET-P0147,Clumping Cat Litter - 6L,PET-SC031,Cat,13.63,23.25
+PET-P0148,Clumping Cat Litter - 8L,PET-SC031,Cat,16.02,27
+PET-P0149,Clumping Cat Litter - 10L,PET-SC031,Cat,16.44,30.75
+PET-P0150,Clumping Cat Litter - 12L,PET-SC031,Cat,19.56,34.5
+PET-P0151,Clumping Cat Litter - 15L,PET-SC031,Cat,22.75,38.25
+PET-P0152,Clumping Cat Litter - 18L,PET-SC031,Cat,23.6,42
+PET-P0153,Paper Cat Litter - 2L,PET-SC032,Cat,5.48,10
+PET-P0154,Paper Cat Litter - 4L,PET-SC032,Cat,11.85,22.5
+PET-P0155,Paper Cat Litter - 5L,PET-SC032,Cat,20.94,35
+PET-P0156,Litter Tray - Small - Slate,PET-SC033,Cat,7.14,12
+PET-P0157,Covered Litter Box - Small - Slate,PET-SC034,Cat,19.84,35
+PET-P0158,Covered Litter Box - Small - Sand,PET-SC034,Cat,24.15,41.82
+PET-P0159,Covered Litter Box - Small - Sage,PET-SC034,Cat,26.56,48.64
+PET-P0160,Covered Litter Box - Small - Navy,PET-SC034,Cat,31.3,55.45
+PET-P0161,Covered Litter Box - Medium - Slate,PET-SC034,Cat,33.93,62.27
+PET-P0162,Covered Litter Box - Medium - Sand,PET-SC034,Cat,39.68,69.09
+PET-P0163,Covered Litter Box - Medium - Sage,PET-SC034,Cat,41.71,75.91
+PET-P0164,Covered Litter Box - Medium - Navy,PET-SC034,Cat,49.22,82.73
+PET-P0165,Covered Litter Box - Large - Slate,PET-SC034,Cat,48.23,89.55
+PET-P0166,Covered Litter Box - Large - Sand,PET-SC034,Cat,54.66,96.36
+PET-P0167,Covered Litter Box - Large - Sage,PET-SC034,Cat,57.37,103.18
+PET-P0168,Covered Litter Box - Large - Navy,PET-SC034,Cat,58.1,110
+PET-P0169,Litter Scoop - Small - Slate,PET-SC035,Cat,2.18,4
+PET-P0170,Litter Scoop - Small - Sand,PET-SC035,Cat,3.66,7
+PET-P0171,Litter Scoop - Small - Sage,PET-SC035,Cat,5.99,10
+PET-P0172,Litter Scoop - Small - Navy,PET-SC035,Cat,7.78,13
+PET-P0173,Litter Scoop - Medium - Slate,PET-SC035,Cat,9.52,16
+PET-P0174,Litter Mat - Small - Slate,PET-SC036,Cat,6.06,10
+PET-P0175,Litter Mat - Small - Sand,PET-SC036,Cat,8.13,14.67
+PET-P0176,Litter Mat - Small - Sage,PET-SC036,Cat,11.24,19.33
+PET-P0177,Litter Mat - Small - Navy,PET-SC036,Cat,12.66,24
+PET-P0178,Litter Mat - Medium - Slate,PET-SC036,Cat,15.84,28.67
+PET-P0179,Litter Mat - Medium - Sand,PET-SC036,Cat,19.61,33.33
+PET-P0180,Litter Mat - Medium - Sage,PET-SC036,Cat,19.87,38
+PET-P0181,Dog Waste Bags - 10 Pack,PET-SC037,Dog,2.35,4
+PET-P0182,Puppy Training Pads - 10 Pack,PET-SC038,Dog,5.31,10
+PET-P0183,Puppy Training Pads - 20 Pack,PET-SC038,Dog,11.2,20
+PET-P0184,Puppy Training Pads - 30 Pack,PET-SC038,Dog,16.59,30
+PET-P0185,Puppy Training Pads - 40 Pack,PET-SC038,Dog,22.19,40
+PET-P0186,Puppy Training Pads - 50 Pack,PET-SC038,Dog,30.36,50
+PET-P0187,Pet Stain Cleaner - 50ml,PET-SC039,Dog & Cat,5.31,10
+PET-P0188,Pet Stain Cleaner - 100ml,PET-SC039,Dog & Cat,10.02,18.33
+PET-P0189,Pet Stain Cleaner - 150ml,PET-SC039,Dog & Cat,15.9,26.67
+PET-P0190,Pet Stain Cleaner - 200ml,PET-SC039,Dog & Cat,21.26,35
+PET-P0191,Rubber Chew Toy - Small - Slate,PET-SC040,Dog,3.71,7
+PET-P0192,Rubber Chew Toy - Small - Sand,PET-SC040,Dog,6.18,11.6
+PET-P0193,Rubber Chew Toy - Small - Sage,PET-SC040,Dog,8.28,16.2
+PET-P0194,Rubber Chew Toy - Small - Navy,PET-SC040,Dog,9.97,20.8
+PET-P0195,Rubber Chew Toy - Medium - Slate,PET-SC040,Dog,12.01,25.4
+PET-P0196,Rubber Chew Toy - Medium - Sand,PET-SC040,Dog,16.27,30
+PET-P0197,Rope Tug Toy - Small - Slate,PET-SC041,Dog,2.68,5
+PET-P0198,Rope Tug Toy - Small - Sand,PET-SC041,Dog,6.78,13.5
+PET-P0199,Rope Tug Toy - Small - Sage,PET-SC041,Dog,12.3,22
+PET-P0200,Fetch Ball - Small - Slate,PET-SC042,Dog,2.11,4
+PET-P0201,Fetch Ball - Small - Sand,PET-SC042,Dog,3.59,7.2
+PET-P0202,Fetch Ball - Small - Sage,PET-SC042,Dog,5.1,10.4
+PET-P0203,Fetch Ball - Small - Navy,PET-SC042,Dog,7.65,13.6
+PET-P0204,Fetch Ball - Medium - Slate,PET-SC042,Dog,8.74,16.8
+PET-P0205,Fetch Ball - Medium - Sand,PET-SC042,Dog,10.75,20
+PET-P0206,Squeaky Plush Toy - Small - Slate,PET-SC043,Dog,3.88,8
+PET-P0207,Squeaky Plush Toy - Small - Sand,PET-SC043,Dog,9.32,19
+PET-P0208,Squeaky Plush Toy - Small - Sage,PET-SC043,Dog,14.27,30
+PET-P0209,Treat Puzzle Toy - Small - Slate,PET-SC044,Dog,7.64,15
+PET-P0210,Treat Puzzle Toy - Small - Sand,PET-SC044,Dog,9.54,19
+PET-P0211,Treat Puzzle Toy - Small - Sage,PET-SC044,Dog,11.65,23
+PET-P0212,Treat Puzzle Toy - Small - Navy,PET-SC044,Dog,14.03,27
+PET-P0213,Treat Puzzle Toy - Medium - Slate,PET-SC044,Dog,16.41,31
+PET-P0214,Treat Puzzle Toy - Medium - Sand,PET-SC044,Dog,19.3,35
+PET-P0215,Treat Puzzle Toy - Medium - Sage,PET-SC044,Dog,19.97,39
+PET-P0216,Treat Puzzle Toy - Medium - Navy,PET-SC044,Dog,24.18,43
+PET-P0217,Treat Puzzle Toy - Large - Slate,PET-SC044,Dog,22.76,47
+PET-P0218,Treat Puzzle Toy - Large - Sand,PET-SC044,Dog,27.67,51
+PET-P0219,Treat Puzzle Toy - Large - Sage,PET-SC044,Dog,30.45,55
+PET-P0220,Snuffle Mat - Small - Slate,PET-SC045,Dog,10.76,20
+PET-P0221,Snuffle Mat - Small - Sand,PET-SC045,Dog,21.01,42.5
+PET-P0222,Snuffle Mat - Small - Sage,PET-SC045,Dog,33.53,65
+PET-P0223,Cat Teaser Wand - Small - Slate,PET-SC046,Cat,2.77,5
+PET-P0224,Cat Teaser Wand - Small - Sand,PET-SC046,Cat,3.55,6.7
+PET-P0225,Cat Teaser Wand - Small - Sage,PET-SC046,Cat,4.42,8.4
+PET-P0226,Cat Teaser Wand - Small - Navy,PET-SC046,Cat,5.37,10.1
+PET-P0227,Cat Teaser Wand - Medium - Slate,PET-SC046,Cat,6.42,11.8
+PET-P0228,Cat Teaser Wand - Medium - Sand,PET-SC046,Cat,6.71,13.5
+PET-P0229,Cat Teaser Wand - Medium - Sage,PET-SC046,Cat,8.44,15.2
+PET-P0230,Cat Teaser Wand - Medium - Navy,PET-SC046,Cat,8.28,16.9
+PET-P0231,Cat Teaser Wand - Large - Slate,PET-SC046,Cat,9.4,18.6
+PET-P0232,Cat Teaser Wand - Large - Sand,PET-SC046,Cat,11.26,20.3
+PET-P0233,Cat Teaser Wand - Large - Sage,PET-SC046,Cat,11.21,22
+PET-P0234,Catnip Toy - Small - Slate,PET-SC047,Cat,2.05,4
+PET-P0235,Catnip Toy - Small - Sand,PET-SC047,Cat,3.5,6.8
+PET-P0236,Catnip Toy - Small - Sage,PET-SC047,Cat,4.56,9.6
+PET-P0237,Catnip Toy - Small - Navy,PET-SC047,Cat,6.91,12.4
+PET-P0238,Catnip Toy - Medium - Slate,PET-SC047,Cat,7.49,15.2
+PET-P0239,Catnip Toy - Medium - Sand,PET-SC047,Cat,10.1,18
+PET-P0240,Cat Ball Track - Small - Slate,PET-SC048,Cat,7.1,15
+PET-P0241,Cat Ball Track - Small - Sand,PET-SC048,Cat,13.47,25
+PET-P0242,Cat Ball Track - Small - Sage,PET-SC048,Cat,17.88,35
+PET-P0243,Cat Ball Track - Small - Navy,PET-SC048,Cat,23.17,45
+PET-P0244,Cat Scratching Pad - Small - Slate,PET-SC049,Cat,5.4,10
+PET-P0245,Cat Scratching Pad - Small - Sand,PET-SC049,Cat,6.65,12.5
+PET-P0246,Cat Scratching Pad - Small - Sage,PET-SC049,Cat,7.82,15
+PET-P0247,Cat Scratching Pad - Small - Navy,PET-SC049,Cat,9.77,17.5
+PET-P0248,Cat Scratching Pad - Medium - Slate,PET-SC049,Cat,11.14,20
+PET-P0249,Cat Scratching Pad - Medium - Sand,PET-SC049,Cat,12.08,22.5
+PET-P0250,Cat Scratching Pad - Medium - Sage,PET-SC049,Cat,13.79,25
+PET-P0251,Cat Scratching Pad - Medium - Navy,PET-SC049,Cat,14.05,27.5
+PET-P0252,Cat Scratching Pad - Large - Slate,PET-SC049,Cat,14.25,30
+PET-P0253,Cat Scratching Pad - Large - Sand,PET-SC049,Cat,15.48,32.5
+PET-P0254,Cat Scratching Pad - Large - Sage,PET-SC049,Cat,18.3,35
+PET-P0255,Training Clicker - Small - Slate,PET-SC050,Dog,1.97,4
+PET-P0256,Training Clicker - Small - Sand,PET-SC050,Dog,2.95,6.2
+PET-P0257,Training Clicker - Small - Sage,PET-SC050,Dog,4.03,8.4
+PET-P0258,Training Clicker - Small - Navy,PET-SC050,Dog,5.61,10.6
+PET-P0259,Training Clicker - Medium - Slate,PET-SC050,Dog,6.44,12.8
+PET-P0260,Training Clicker - Medium - Sand,PET-SC050,Dog,7.66,15
+PET-P0261,Treat Pouch - Small - Slate,PET-SC051,Dog,5.3,10
+PET-P0262,Treat Pouch - Small - Sand,PET-SC051,Dog,6.26,11.54
+PET-P0263,Treat Pouch - Small - Sage,PET-SC051,Dog,6.37,13.08
+PET-P0264,Treat Pouch - Small - Navy,PET-SC051,Dog,7.24,14.62
+PET-P0265,Treat Pouch - Medium - Slate,PET-SC051,Dog,8.27,16.15
+PET-P0266,Treat Pouch - Medium - Sand,PET-SC051,Dog,9.71,17.69
+PET-P0267,Treat Pouch - Medium - Sage,PET-SC051,Dog,9.1,19.23
+PET-P0268,Treat Pouch - Medium - Navy,PET-SC051,Dog,11.09,20.77
+PET-P0269,Treat Pouch - Large - Slate,PET-SC051,Dog,11.3,22.31
+PET-P0270,Treat Pouch - Large - Sand,PET-SC051,Dog,11.55,23.85
+PET-P0271,Treat Pouch - Large - Sage,PET-SC051,Dog,13.25,25.38
+PET-P0272,Treat Pouch - Large - Navy,PET-SC051,Dog,12.85,26.92
+PET-P0273,Treat Pouch - Extra Large - Slate,PET-SC051,Dog,14.41,28.46
+PET-P0274,Treat Pouch - Extra Large - Sand,PET-SC051,Dog,16.9,30
+PET-P0275,Wire Dog Crate - Small - Slate,PET-SC056,Dog,33.35,55
+PET-P0276,Wire Dog Crate - Small - Sand,PET-SC056,Dog,79.29,122.5
+PET-P0277,Wire Dog Crate - Small - Sage,PET-SC056,Dog,116.31,190
+PET-P0278,Indoor Exercise Pen - Small - Slate,PET-SC057,Dog,28.47,45
+PET-P0279,Indoor Exercise Pen - Small - Sand,PET-SC057,Dog,97.84,160
+PET-P0280,Cat Tree - Small - Slate,PET-SC058,Cat,36.18,60
+PET-P0281,Cat Tree - Small - Sand,PET-SC058,Cat,146.48,260
+PET-P0282,Pet Safety Gate - Small - Slate,PET-SC059,Dog,25.31,40
+PET-P0283,Pet Safety Gate - Small - Sand,PET-SC059,Dog,51.26,90
+PET-P0284,Pet Safety Gate - Small - Sage,PET-SC059,Dog,89.5,140
+PET-P0285,Pet Cooling Mat - Small - Slate,PET-SC060,Dog & Cat,11.16,18
+PET-P0286,Pet Cooling Mat - Small - Sand,PET-SC060,Dog & Cat,42.19,65
+PET-P0287,Cushion Pet Bed - Small - Slate,PET-SC053,Dog & Cat,16.86,30
+PET-P0288,Cushion Pet Bed - Small - Sand,PET-SC053,Dog & Cat,67.12,120
+PET-P0289,Pet Fleece Blanket - Small - Slate,PET-SC052,Dog & Cat,7.34,12
+PET-P0290,Covered Cat Bed - Small - Slate,PET-SC055,Cat,19.38,30
+PET-P0291,Covered Cat Bed - Small - Sand,PET-SC055,Cat,55.22,95
+PET-P0292,Orthopaedic Dog Bed - Small - Slate,PET-SC054,Dog,38.64,60
+PET-P0293,Adjustable Dog Collar - Small - Slate,PET-SC061,Dog,4.68,8
+PET-P0294,Adjustable Dog Collar - Small - Sand,PET-SC061,Dog,8.47,14.75
+PET-P0295,Adjustable Dog Collar - Small - Sage,PET-SC061,Dog,12.36,21.5
+PET-P0296,Adjustable Dog Collar - Small - Navy,PET-SC061,Dog,16.85,28.25
+PET-P0297,Adjustable Dog Collar - Medium - Slate,PET-SC061,Dog,20.16,35
+PET-P0298,Dog Harness - Small - Slate,PET-SC062,Dog,9.84,18
+PET-P0299,Dog Lead - Small - Slate,PET-SC063,Dog,5.81,10
+PET-P0300,Soft-sided Pet Carrier - Small - Slate,PET-SC064,Dog & Cat,17.85,35
+PET-P0301,Soft-sided Pet Carrier - Small - Sand,PET-SC064,Dog & Cat,72.15,130
+PET-P0302,Pet Food Bowl - Small - Slate,PET-SC065,Dog & Cat,3.8,6
+PET-P0303,Pet Food Bowl - Small - Sand,PET-SC065,Dog & Cat,7.92,13.25
+PET-P0304,Pet Food Bowl - Small - Sage,PET-SC065,Dog & Cat,12.59,20.5
+PET-P0305,Pet Food Bowl - Small - Navy,PET-SC065,Dog & Cat,16.17,27.75
+PET-P0306,Pet Food Bowl - Medium - Slate,PET-SC065,Dog & Cat,21.89,35
+PET-P0307,Automatic Pet Feeder - Small - Slate,PET-SC066,Dog & Cat,35.38,55
+PET-P0308,Automatic Pet Feeder - Small - Sand,PET-SC066,Dog & Cat,53.53,86.25
+PET-P0309,Automatic Pet Feeder - Small - Sage,PET-SC066,Dog & Cat,69.42,117.5
+PET-P0310,Automatic Pet Feeder - Small - Navy,PET-SC066,Dog & Cat,98.43,148.75
+PET-P0311,Automatic Pet Feeder - Medium - Slate,PET-SC066,Dog & Cat,106.98,180
+PET-P0312,Pet Water Fountain - Small - Slate,PET-SC067,Dog & Cat,22.68,35
+PET-P0313,Pet Water Fountain - Small - Sand,PET-SC067,Dog & Cat,37.11,63.33
+PET-P0314,Pet Water Fountain - Small - Sage,PET-SC067,Dog & Cat,60.61,91.67
+PET-P0315,Pet Water Fountain - Small - Navy,PET-SC067,Dog & Cat,74.12,120
+PET-P0316,Aquarium Starter Kit - Small - Slate,PET-SC068,Fish,40.73,65
+PET-P0317,Aquarium Starter Kit - Small - Sand,PET-SC068,Fish,70.93,111.25
+PET-P0318,Aquarium Starter Kit - Small - Sage,PET-SC068,Fish,94.67,157.5
+PET-P0319,Aquarium Starter Kit - Small - Navy,PET-SC068,Fish,139.75,203.75
+PET-P0320,Aquarium Starter Kit - Medium - Slate,PET-SC068,Fish,155.97,250
+PET-P0321,Aquarium Filter - Small - Slate,PET-SC069,Fish,12.12,18
+PET-P0322,Aquarium Filter - Small - Sand,PET-SC069,Fish,35.44,51.5
+PET-P0323,Aquarium Filter - Small - Sage,PET-SC069,Fish,53.65,85
+PET-P0324,Aquarium Heater - Small - Slate,PET-SC070,Fish,12.35,18
+PET-P0325,Aquarium Heater - Small - Sand,PET-SC070,Fish,24.72,41.5
+PET-P0326,Aquarium Heater - Small - Sage,PET-SC070,Fish,38.4,65
+PET-P0327,Aquarium Decoration - Small - Slate,PET-SC071,Fish,3.12,5
+PET-P0328,Aquarium Decoration - Small - Sand,PET-SC071,Fish,25.88,40
+PET-P0329,Fish Food - 50g,PET-SC072,Fish,3.32,5
+PET-P0330,Fish Food - 100g,PET-SC072,Fish,9.57,15
+PET-P0331,Fish Food - 150g,PET-SC072,Fish,16.53,25
+PET-P0332,Bird Seed Mix - 50g,PET-SC073,Bird,5.44,8
+PET-P0333,Bird Seed Mix - 100g,PET-SC073,Bird,12.58,18.67
+PET-P0334,Bird Seed Mix - 150g,PET-SC073,Bird,17.65,29.33
+PET-P0335,Bird Seed Mix - 200g,PET-SC073,Bird,24.75,40
+PET-P0336,Bird Perch - Small - Slate,PET-SC074,Bird,4.01,6
+PET-P0337,Bird Perch - Small - Sand,PET-SC074,Bird,5.56,8.67
+PET-P0338,Bird Perch - Small - Sage,PET-SC074,Bird,7.71,11.33
+PET-P0339,Bird Perch - Small - Navy,PET-SC074,Bird,9.31,14
+PET-P0340,Bird Perch - Medium - Slate,PET-SC074,Bird,10.98,16.67
+PET-P0341,Bird Perch - Medium - Sand,PET-SC074,Bird,13.25,19.33
+PET-P0342,Bird Perch - Medium - Sage,PET-SC074,Bird,14.74,22
+PET-P0343,Bird Perch - Medium - Navy,PET-SC074,Bird,15.62,24.67
+PET-P0344,Bird Perch - Large - Slate,PET-SC074,Bird,17.87,27.33
+PET-P0345,Bird Perch - Large - Sand,PET-SC074,Bird,18.88,30
+PET-P0346,Bird Enrichment Toy - Small - Slate,PET-SC075,Bird,3.96,6
+PET-P0347,Bird Enrichment Toy - Small - Sand,PET-SC075,Bird,10.05,15.67
+PET-P0348,Bird Enrichment Toy - Small - Sage,PET-SC075,Bird,17.24,25.33
+PET-P0349,Bird Enrichment Toy - Small - Navy,PET-SC075,Bird,23.77,35
+PET-P0350,Small Animal Bedding - 2L,PET-SC076,Small Animal,5.45,8
+PET-P0351,Small Animal Bedding - 4L,PET-SC076,Small Animal,14.64,21.5
+PET-P0352,Small Animal Bedding - 5L,PET-SC076,Small Animal,22.51,35
+PET-P0353,Small Animal Hideaway - Small - Slate,PET-SC077,Small Animal,8.24,12
+PET-P0354,Small Animal Hideaway - Small - Sand,PET-SC077,Small Animal,15.83,23
+PET-P0355,Small Animal Hideaway - Small - Sage,PET-SC077,Small Animal,20.35,34
+PET-P0356,Small Animal Hideaway - Small - Navy,PET-SC077,Small Animal,26.61,45
+PET-P0357,Timothy Hay - 50g,PET-SC078,Small Animal,6.58,10
+PET-P0358,Timothy Hay - 100g,PET-SC078,Small Animal,16.09,25
+PET-P0359,Timothy Hay - 150g,PET-SC078,Small Animal,24.62,40

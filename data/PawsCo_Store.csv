@@ -1,0 +1,11 @@
+StoreNumber,StoreName,StoreCity,StoreState,StoreCountry,StoreRegion,FristName,LastName,EmployeeID,SuperID
+ST001AU,Paws & Co - Melbourne,Melbourne,Victoria,Australia,AU - VIC,Oliver,Bennett,101,100
+ST002AU,Paws & Co - Hobart,Hobart,Tasmania,Australia,AU - TAS,Sophie,Mitchell,105,102
+ST003AU,Paws & Co - Perth,Perth,Western Australia,Australia,AU - WA,Ethan,Clarke,104,102
+ST004AU,Paws & Co - Sydney,Sydney,New South Wales,Australia,AU - NSW,Charlotte,Reed,100,0
+ST005AU,Paws & Co - Brisbane,Brisbane,Queensland,Australia,AU - QLD,Amelia,Foster,102,101
+ST006AU,Paws & Co - Adelaide,Adelaide,South Australia,Australia,AU - SA,Lucas,Hayes,103,101
+ST007GE,Paws & Co - Berlin,Berlin,Berlin,Germany,Europe - Germany,Lukas,Weber,106,100
+ST008FR,Paws & Co - Paris,Paris,Île-de-France,France,Europe - France,Camille,Laurent,107,106
+ST009IT,Paws & Co - Milan,Milan,Lombardy,Italy,Europe - Italy,Matteo,Ricci,108,106
+ST010UK,Paws & Co - London,London,England,United Kingdom,Europe - United Kingdom,Emily,Brooks,109,106

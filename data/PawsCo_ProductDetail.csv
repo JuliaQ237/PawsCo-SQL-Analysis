@@ -1,0 +1,79 @@
+CategoryID,CategoryL1,CategoryL2,CategoryL3,CategoryL4,Description,TypicalUse
+PET-SC001,Food & Treats,Nutrition,Dog Food,Adult Dog Dry Food,Dry food for adult dogs,Daily feeding
+PET-SC002,Food & Treats,Nutrition,Dog Food,Puppy Dry Food,Dry food for puppies,Puppy feeding
+PET-SC003,Food & Treats,Nutrition,Dog Food,Senior Dog Dry Food,Dry food for senior dogs,Senior feeding
+PET-SC004,Food & Treats,Nutrition,Dog Food,Dog Wet Food,Wet meals for dogs,Daily feeding
+PET-SC005,Food & Treats,Nutrition,Cat Food,Adult Cat Dry Food,Dry food for adult cats,Daily feeding
+PET-SC006,Food & Treats,Nutrition,Cat Food,Kitten Dry Food,Dry food for kittens,Kitten feeding
+PET-SC007,Food & Treats,Nutrition,Cat Food,Senior Cat Dry Food,Dry food for senior cats,Senior feeding
+PET-SC008,Food & Treats,Nutrition,Cat Food,Cat Wet Food,Wet meals for cats,Daily feeding
+PET-SC009,Food & Treats,Nutrition,Pet Treats,Dog Training Treats,Small dog reward treats,Training rewards
+PET-SC010,Food & Treats,Nutrition,Pet Treats,Dog Dental Treats,Chew treats for dogs,Dental care
+PET-SC011,Food & Treats,Nutrition,Pet Treats,Cat Treats,Bite-sized cat treats,Treat rewards
+PET-SC012,Food & Treats,Nutrition,Pet Treats,Freeze-dried Treats,Freeze-dried pet snacks,Treat rewards
+PET-SC013,Grooming & Hygiene,Pet Care,Bathing,Dog Shampoo,Dog coat wash,Bathing dogs
+PET-SC014,Grooming & Hygiene,Pet Care,Bathing,Cat Shampoo,Cat coat wash,Bathing cats
+PET-SC015,Grooming & Hygiene,Pet Care,Bathing,Conditioning Spray,Coat conditioning spray,Coat care
+PET-SC016,Grooming & Hygiene,Pet Care,Bathing,Grooming Wipes,Pet cleaning wipes,Quick cleaning
+PET-SC017,Grooming & Hygiene,Pet Care,Grooming Tools,Slicker Brush,Fine-wire coat brush,Removing loose fur
+PET-SC018,Grooming & Hygiene,Pet Care,Grooming Tools,Bristle Brush,Soft-bristle coat brush,Coat brushing
+PET-SC019,Grooming & Hygiene,Pet Care,Grooming Tools,Deshedding Comb,Loose-fur removal comb,Reducing shedding
+PET-SC020,Grooming & Hygiene,Pet Care,Grooming Tools,Dematting Comb,Tangle removal comb,Removing tangles
+PET-SC021,Grooming & Hygiene,Pet Care,Nail Care,Nail Clippers,Pet nail cutters,Nail trimming
+PET-SC022,Grooming & Hygiene,Pet Care,Nail Care,Nail Grinder,Electric nail filing tool,Nail filing
+PET-SC023,Grooming & Hygiene,Pet Care,Grooming Tools,Grooming Scissors,Pet coat scissors,Fur trimming
+PET-SC024,Grooming & Hygiene,Pet Care,Grooming Tools,Grooming Glove,Wearable grooming brush,Coat brushing
+PET-SC025,Grooming & Hygiene,Pet Care,Dental Care,Pet Toothbrush,Pet dental brush,Teeth brushing
+PET-SC026,Grooming & Hygiene,Pet Care,Dental Care,Pet Toothpaste,Pet dental paste,Teeth brushing
+PET-SC027,Grooming & Hygiene,Pet Care,Dental Care,Dental Cleaning Kit,Pet dental tool set,Dental cleaning
+PET-SC028,Grooming & Hygiene,Pet Care,Hygiene Supplies,Ear Cleaning Wipes,Pet ear wipes,Ear cleaning
+PET-SC029,Grooming & Hygiene,Pet Care,Hygiene Supplies,Paw Cleaning Cup,Paw washing cup,Paw cleaning
+PET-SC030,Grooming & Hygiene,Pet Care,Hygiene Supplies,Paw Cleaning Wipes,Pet paw wipes,Paw cleaning
+PET-SC031,Grooming & Hygiene,Pet Care,Litter & Toileting,Clumping Cat Litter,Clumping litter granules,Cat toileting
+PET-SC032,Grooming & Hygiene,Pet Care,Litter & Toileting,Paper Cat Litter,Paper-based litter,Cat toileting
+PET-SC033,Grooming & Hygiene,Pet Care,Litter & Toileting,Litter Tray,Open litter tray,Cat toileting
+PET-SC034,Grooming & Hygiene,Pet Care,Litter & Toileting,Covered Litter Box,Enclosed litter tray,Cat toileting
+PET-SC035,Grooming & Hygiene,Pet Care,Litter & Toileting,Litter Scoop,Litter waste scoop,Litter cleaning
+PET-SC036,Grooming & Hygiene,Pet Care,Litter & Toileting,Litter Mat,Litter-catching floor mat,Catching scattered litter
+PET-SC037,Grooming & Hygiene,Pet Care,Waste Management,Dog Waste Bags,Dog waste collection bags,Waste disposal
+PET-SC038,Grooming & Hygiene,Pet Care,Waste Management,Puppy Training Pads,Absorbent puppy pads,Toilet training
+PET-SC039,Grooming & Hygiene,Pet Care,Cleaning Supplies,Pet Stain Cleaner,Pet stain cleaning solution,Stain removal
+PET-SC040,Toys & Enrichment,Play & Training,Dog Toys,Rubber Chew Toy,Durable rubber chew toy,Chewing play
+PET-SC041,Toys & Enrichment,Play & Training,Dog Toys,Rope Tug Toy,Knotted rope toy,Tug play
+PET-SC042,Toys & Enrichment,Play & Training,Dog Toys,Fetch Ball,Dog fetch ball,Fetch play
+PET-SC043,Toys & Enrichment,Play & Training,Dog Toys,Squeaky Plush Toy,Soft squeaking toy,Supervised play
+PET-SC044,Toys & Enrichment,Play & Training,Interactive Toys,Treat Puzzle Toy,Food puzzle toy,Mental enrichment
+PET-SC045,Toys & Enrichment,Play & Training,Interactive Toys,Snuffle Mat,Treat-hiding fabric mat,Foraging play
+PET-SC046,Toys & Enrichment,Play & Training,Cat Toys,Cat Teaser Wand,Interactive cat wand,Interactive play
+PET-SC047,Toys & Enrichment,Play & Training,Cat Toys,Catnip Toy,Catnip-filled cat toy,Cat play
+PET-SC048,Toys & Enrichment,Play & Training,Cat Toys,Cat Ball Track,Enclosed rolling-ball track,Cat play
+PET-SC049,Toys & Enrichment,Play & Training,Cat Enrichment,Cat Scratching Pad,Scratchable cat surface,Scratching
+PET-SC050,Toys & Enrichment,Play & Training,Training Accessories,Training Clicker,Training marker clicker,Reward training
+PET-SC051,Toys & Enrichment,Play & Training,Training Accessories,Treat Pouch,Wearable treat bag,Carrying treats
+PET-SC052,Bedding & Housing,Home & Shelter,Pet Bedding,Pet Fleece Blanket,Soft pet blanket,Warm resting
+PET-SC053,Bedding & Housing,Home & Shelter,Pet Bedding,Cushion Pet Bed,Cushioned pet bed,Daily resting
+PET-SC054,Bedding & Housing,Home & Shelter,Pet Bedding,Orthopaedic Dog Bed,Supportive dog bed,Comfortable resting
+PET-SC055,Bedding & Housing,Home & Shelter,Pet Bedding,Covered Cat Bed,Enclosed cat bed,Sheltered resting
+PET-SC056,Bedding & Housing,Home & Shelter,Crates & Pens,Wire Dog Crate,Folding wire crate,Crate training
+PET-SC057,Bedding & Housing,Home & Shelter,Crates & Pens,Indoor Exercise Pen,Indoor pet enclosure,Supervised containment
+PET-SC058,Bedding & Housing,Home & Shelter,Cat Furniture,Cat Tree,Climbing and scratching furniture,Climbing and scratching
+PET-SC059,Bedding & Housing,Home & Shelter,Home Safety,Pet Safety Gate,Indoor pet barrier,Restricting access
+PET-SC060,Bedding & Housing,Home & Shelter,Pet Bedding,Pet Cooling Mat,Cooling pet surface,Cool resting
+PET-SC061,Walking & Travel,Outdoor & Travel,Walking Gear,Adjustable Dog Collar,Adjustable neck collar,Walking and identification
+PET-SC062,Walking & Travel,Outdoor & Travel,Walking Gear,Dog Harness,Body-support walking harness,Leash walking
+PET-SC063,Walking & Travel,Outdoor & Travel,Walking Gear,Dog Lead,Pet walking lead,Leash walking
+PET-SC064,Walking & Travel,Outdoor & Travel,Travel Equipment,Soft-sided Pet Carrier,Soft-sided travel carrier,Pet transport
+PET-SC065,Feeding Accessories,Feeding & Hydration,Bowls & Storage,Pet Food Bowl,Pet feeding bowl,Serving food
+PET-SC066,Feeding Accessories,Feeding & Hydration,Automatic Feeding,Automatic Pet Feeder,Timed food dispenser,Scheduled feeding
+PET-SC067,Feeding Accessories,Feeding & Hydration,Drinking Equipment,Pet Water Fountain,Circulating water dispenser,Providing drinking water
+PET-SC068,Aquatic & Small Pet Supplies,Specialist Pet Care,Aquarium Equipment,Aquarium Starter Kit,Beginner aquarium equipment set,Aquarium setup
+PET-SC069,Aquatic & Small Pet Supplies,Specialist Pet Care,Aquarium Equipment,Aquarium Filter,Aquarium filtration unit,Water filtration
+PET-SC070,Aquatic & Small Pet Supplies,Specialist Pet Care,Aquarium Equipment,Aquarium Heater,Aquarium water heater,Temperature control
+PET-SC071,Aquatic & Small Pet Supplies,Specialist Pet Care,Aquarium Accessories,Aquarium Decoration,Decorative aquarium accessory,Habitat decoration
+PET-SC072,Aquatic & Small Pet Supplies,Specialist Pet Care,Aquatic Nutrition,Fish Food,Prepared fish feed,Fish feeding
+PET-SC073,Aquatic & Small Pet Supplies,Specialist Pet Care,Bird Nutrition,Bird Seed Mix,Mixed bird seed,Bird feeding
+PET-SC074,Aquatic & Small Pet Supplies,Specialist Pet Care,Bird Habitat,Bird Perch,Bird resting perch,Perching
+PET-SC075,Aquatic & Small Pet Supplies,Specialist Pet Care,Bird Habitat,Bird Enrichment Toy,Interactive bird toy,Bird enrichment
+PET-SC076,Aquatic & Small Pet Supplies,Specialist Pet Care,Small Animal Habitat,Small Animal Bedding,Absorbent small-pet bedding,Habitat lining
+PET-SC077,Aquatic & Small Pet Supplies,Specialist Pet Care,Small Animal Habitat,Small Animal Hideaway,Small-pet shelter,Sheltered resting
+PET-SC078,Aquatic & Small Pet Supplies,Specialist Pet Care,Small Animal Nutrition,Timothy Hay,Dried timothy grass,Hay feeding
